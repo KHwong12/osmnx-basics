@@ -70,5 +70,10 @@ import osmnx as ox
 osmnx.__version__
 ```
 
+## Additional Topic/references
 
+- Compute centrality with streets (instead of intersections)
+  - line graph: streets are represented as nodes and intersections are represented as edges
+  - https://geoffboeing.com/2018/01/urban-street-network-centrality/
+  - https://github.com/gboeing/osmnx-examples/blob/v0.11/notebooks/08-example-line-graph.ipynb
 
